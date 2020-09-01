@@ -4,4 +4,4 @@
 
 # MySQL Workbench foi utilizado para ver os resultados do backend e o insomnia para reproduzir as requisições.
 
-![Imagem do MySQL Workbench]('./README/Image1.png);
+![Imagem do MySQL Workbench](./README/Image1.png);
